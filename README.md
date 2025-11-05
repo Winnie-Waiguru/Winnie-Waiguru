@@ -41,9 +41,7 @@ Currently, I’m focused on **React.js**, **Tailwind CSS**, and **JavaScript**, 
 ## Badges & GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Winnie-Waiguru&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=Winnie-Waiguru&theme=default&hide_border=true" alt="GitHub Streak" height="150"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Winnie-Waiguru&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>  
 </p>
 
 
