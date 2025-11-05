@@ -58,10 +58,8 @@ I’m currently **open to Front-End Developer roles** that focus on creating mea
 
 With a strong foundation in **HTML, CSS, JavaScript, React**, and **UI/UX design**, I’m passionate about building accessible and visually appealing interfaces that merge creativity with functionality.  
 
-[**View My Resume (Google Doc)**](https://docs.google.com/document/d/1xHmeauD9yv7Eg0mYuvry6t4WAqlmcENDOsWSG20-qu4/edit?usp=sharing)  
-
+ [![Resume](https://img.shields.io/badge/View%20My%20Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.google.com/document/d/1xHmeauD9yv7Eg0mYuvry6t4WAqlmcENDOsWSG20-qu4/edit?usp=sharing)   
 [![Hire Me](https://img.shields.io/badge/Open%20to%20Work-2EA44F?style=for-the-badge&logo=handshake&logoColor=white)](mailto:winniewaiguru@gmail.com)
-[![Resume](https://img.shields.io/badge/View%20My%20Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.google.com/document/d/1xHmeauD9yv7Eg0mYuvry6t4WAqlmcENDOsWSG20-qu4/edit?usp=sharing)
 
 
 > _“Code is poetry, and I’m here to write beautiful verses that make technology human.”_  
