@@ -35,15 +35,14 @@ Currently, I’m focused on **React.js**, **Tailwind CSS**, and **JavaScript**, 
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
 </p>
 
 
 ## Badges & GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winfred-waiguru&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=winfred-waiguru&theme=default&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Winnie-Waiguru&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Winnie-Waiguru&theme=default&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 
 
@@ -55,12 +54,12 @@ Currently, I’m focused on **React.js**, **Tailwind CSS**, and **JavaScript**, 
 </p>
 
 
-##  Call to Action  
+## Call to Action  
 
  Let’s collaborate. I’m open to **frontend development** opportunities and projects**.  
 
 
 > _“Code is poetry, and I’m here to write beautiful verses that make technology human.”_  
-> — **Winfred Waiguru**
+
 
 
